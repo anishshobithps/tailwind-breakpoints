@@ -23,3 +23,8 @@ module.exports = {
   plugins: [require("@anishshobithps/tailwind-breakpoints")]
 }
 ```
+
+## Demo
+
+https://github.com/anishshobithps/tailwind-breakpoints/assets/38991749/e7b1b01f-91de-4f82-86b8-d5c9b8009bf2
+
