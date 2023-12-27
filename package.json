@@ -23,5 +23,11 @@
     "@types/node": "^20.10.5",
     "tailwindcss": "^3.4.0",
     "typescript": "^5.3.3"
+  },
+  "license": "MIT",
+  "author": {
+    "name": "Anish Shobith P S",
+    "email": "contact@anishshobithps.com",
+    "url": "https://anishshobithps.com"
   }
 }
