@@ -1,0 +1,14 @@
+{
+    "compilerOptions": {
+      "skipLibCheck": true,
+      "strict": true,
+      "target": "ESNext",
+      "module": "NodeNext",
+      "outDir": "dist",
+      "rootDir": "src",
+      "moduleResolution": "NodeNext",
+      "allowSyntheticDefaultImports": true,
+      "sourceMap": true,
+      "declaration": true
+    }
+  }
