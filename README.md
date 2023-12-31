@@ -1,6 +1,6 @@
 # tailwind-breakpoints
 
-The Plugin will slow breakpoints during development on the fly.
+The Plugin will show breakpoints during development on the fly.
 
 ## Installation
 
